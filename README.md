@@ -1,1 +1,1 @@
-# my-project
+This is my external practical exam.
